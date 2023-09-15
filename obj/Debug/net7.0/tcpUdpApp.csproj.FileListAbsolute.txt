@@ -1,0 +1,84 @@
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1\tcpUdpApp\obj\Debug\net7.0\ref\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\tcpUdpApp\obj\Debug\net7.0\ref\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Documents\Webbutvecklare\1CampusVärnamo-Kurser\7Webbapp. med realtidskom\Modul 1 - Nätverks-programmering och molntjänster\Övning1  Nätverksprogrammering\SwitchCaseTest\tcpUdpAppSwtich\obj\Debug\net7.0\ref\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Aktuella program\2.Switch\tcpUdpAppSwtich\obj\Debug\net7.0\ref\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Desktop\Aktuella program\2.1.Meny\tcpUdpAppMeny\obj\Debug\net7.0\ref\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\bin\Debug\net7.0\tcpUdpApp.exe
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\bin\Debug\net7.0\tcpUdpApp.deps.json
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\bin\Debug\net7.0\tcpUdpApp.runtimeconfig.json
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\bin\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\bin\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.AssemblyInfo.cs
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\refint\tcpUdpApp.dll
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.pdb
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\tcpUdpApp.genruntimeconfig.cache
+C:\Users\jonat\Documents\Webbutvecklare\4ARepos\tcp-udp-baserad-applikation-med-net-och-c-f-r-azure-AnderssonJonathan\obj\Debug\net7.0\ref\tcpUdpApp.dll
