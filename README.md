@@ -16,7 +16,7 @@ In order to simulate this process the application needs to be started simustaino
 Make sure to follow all the steps below in order to set up and controll the program as intended...
 
 1. **Clone Repo**\
-Clone the repository using the command git clone https://github.com/OrchardCMS/OrchardCore.git and checkout the main branch.
+Clone the repository using the command git clone https://github.com/AnderssonJonathan/J.A-TcpUdpApp and checkout the main branch.
 
 2. **SDK**\
 Make sure to install the latest version of the .NET SDK from this page https://dotnet.microsoft.com/download
